@@ -28,8 +28,8 @@ require (
 	github.com/saintfish/chardet v0.0.0-20230101081208-5e3ef4b5456d // indirect
 	go.uber.org/multierr v1.11.0 // indirect
 	golang.org/x/mod v0.38.0 // indirect
-	golang.org/x/net v0.58.0
-	golang.org/x/sys v0.47.0 // indirect
+	golang.org/x/net v0.62.0
+	golang.org/x/sys v0.49.0 // indirect
 	golang.org/x/tools v0.48.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
