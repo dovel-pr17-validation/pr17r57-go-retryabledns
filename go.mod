@@ -3,7 +3,7 @@ module github.com/projectdiscovery/retryabledns
 go 1.26.0
 
 require (
-	github.com/miekg/dns v1.1.62
+	github.com/miekg/dns v1.1.73
 	github.com/stretchr/testify v1.12.1
 )
 
@@ -15,7 +15,6 @@ require (
 	github.com/tidwall/pretty v1.2.1 // indirect
 	go.yaml.in/yaml/v3 v3.0.5 // indirect
 	golang.org/x/exp v0.0.0-20250106191152-7588d65b2ba8 // indirect
-	golang.org/x/sync v0.22.0 // indirect
 )
 
 require (
@@ -27,9 +26,7 @@ require (
 	github.com/projectdiscovery/utils v0.11.13
 	github.com/saintfish/chardet v0.0.0-20230101081208-5e3ef4b5456d // indirect
 	go.uber.org/multierr v1.11.0 // indirect
-	golang.org/x/mod v0.38.0 // indirect
 	golang.org/x/net v0.58.0
 	golang.org/x/sys v0.47.0 // indirect
-	golang.org/x/tools v0.48.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
